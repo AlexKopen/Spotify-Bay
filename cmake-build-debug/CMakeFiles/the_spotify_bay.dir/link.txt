@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/the_spotify_bay.dir/main.cpp.o  -o the_spotify_bay 
