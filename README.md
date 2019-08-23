@@ -4,6 +4,11 @@ Still in development.
 
 Downloads the closest YouTube mp3 equivalanet to a Spotify track.
 
+## Installation
+Get a token from the [Spotify Console](https://developer.spotify.com/console/get-track/)
+
+Set your token environmental variable in params.txt
+
 ## Dependencies
 ```
 sudo apt-get install cmake
