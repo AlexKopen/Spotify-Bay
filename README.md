@@ -9,6 +9,8 @@ Get a token from the [Spotify Console](https://developer.spotify.com/console/get
 
 Set your token environmental variable in params.txt
 
+Replace the track id in main.cpp
+
 ## Dependencies
 ```
 sudo apt-get install cmake
@@ -21,5 +23,6 @@ cmake --build cmake-build-debug --target the_spotify_bay -- -j 6
 
 ## Executing
 ```
-cmake-build-debug/the_spotify_bay 
+cd cmake-build-debug
+./the_spotify_bay 
 ```
