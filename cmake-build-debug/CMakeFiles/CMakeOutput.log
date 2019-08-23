@@ -7058,3 +7058,99 @@ make[1]: Leaving directory '/home/alex/CLionProjects/the-spotify-bay/cmake-build
 
 Source file was:
 int main(void) { return 0; }
+Performing C SOURCE FILE Test OPT-Wstrict-aliasing=3 succeeded with the following output:
+Change Dir: /home/alex/CLionProjects/the-spotify-bay/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_9cabc/fast 
+/usr/bin/make -f CMakeFiles/cmTC_9cabc.dir/build.make CMakeFiles/cmTC_9cabc.dir/build
+make[1]: Entering directory '/home/alex/CLionProjects/the-spotify-bay/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_9cabc.dir/src.c.o
+/usr/bin/cc   -pedantic -Wall -W -Wpointer-arith -Wwrite-strings -Wunused -Wshadow -Winline -Wnested-externs -Wmissing-declarations -Wmissing-prototypes -Wno-long-long -Wfloat-equal -Wno-multichar -Wsign-compare -Wundef -Wno-format-nonliteral -Wendif-labels -Wstrict-prototypes -Wdeclaration-after-statement -DOPT-Wstrict-aliasing=3   -Wstrict-aliasing=3 -o CMakeFiles/cmTC_9cabc.dir/src.c.o   -c /home/alex/CLionProjects/the-spotify-bay/cmake-build-debug/CMakeFiles/CMakeTmp/src.c
+<command-line>: warning: ISO C99 requires whitespace after the macro name
+Linking C executable cmTC_9cabc
+/snap/clion/81/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9cabc.dir/link.txt --verbose=1
+/usr/bin/cc  -pedantic -Wall -W -Wpointer-arith -Wwrite-strings -Wunused -Wshadow -Winline -Wnested-externs -Wmissing-declarations -Wmissing-prototypes -Wno-long-long -Wfloat-equal -Wno-multichar -Wsign-compare -Wundef -Wno-format-nonliteral -Wendif-labels -Wstrict-prototypes -Wdeclaration-after-statement -DOPT-Wstrict-aliasing=3    -rdynamic CMakeFiles/cmTC_9cabc.dir/src.c.o  -o cmTC_9cabc 
+make[1]: Leaving directory '/home/alex/CLionProjects/the-spotify-bay/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test OPT-Wstrict-aliasing=3 succeeded with the following output:
+Change Dir: /home/alex/CLionProjects/the-spotify-bay/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_abbee/fast 
+/usr/bin/make -f CMakeFiles/cmTC_abbee.dir/build.make CMakeFiles/cmTC_abbee.dir/build
+make[1]: Entering directory '/home/alex/CLionProjects/the-spotify-bay/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_abbee.dir/src.c.o
+/usr/bin/cc   -pedantic -Wall -W -Wpointer-arith -Wwrite-strings -Wunused -Wshadow -Winline -Wnested-externs -Wmissing-declarations -Wmissing-prototypes -Wno-long-long -Wfloat-equal -Wno-multichar -Wsign-compare -Wundef -Wno-format-nonliteral -Wendif-labels -Wstrict-prototypes -Wdeclaration-after-statement -DOPT-Wstrict-aliasing=3   -Wstrict-aliasing=3 -o CMakeFiles/cmTC_abbee.dir/src.c.o   -c /home/alex/CLionProjects/the-spotify-bay/cmake-build-debug/CMakeFiles/CMakeTmp/src.c
+<command-line>: warning: ISO C99 requires whitespace after the macro name
+Linking C executable cmTC_abbee
+/snap/clion/81/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_abbee.dir/link.txt --verbose=1
+/usr/bin/cc  -pedantic -Wall -W -Wpointer-arith -Wwrite-strings -Wunused -Wshadow -Winline -Wnested-externs -Wmissing-declarations -Wmissing-prototypes -Wno-long-long -Wfloat-equal -Wno-multichar -Wsign-compare -Wundef -Wno-format-nonliteral -Wendif-labels -Wstrict-prototypes -Wdeclaration-after-statement -DOPT-Wstrict-aliasing=3    -rdynamic CMakeFiles/cmTC_abbee.dir/src.c.o  -o cmTC_abbee 
+make[1]: Leaving directory '/home/alex/CLionProjects/the-spotify-bay/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test OPT-Wstrict-aliasing=3 succeeded with the following output:
+Change Dir: /home/alex/CLionProjects/the-spotify-bay/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_6d8cb/fast 
+/usr/bin/make -f CMakeFiles/cmTC_6d8cb.dir/build.make CMakeFiles/cmTC_6d8cb.dir/build
+make[1]: Entering directory '/home/alex/CLionProjects/the-spotify-bay/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_6d8cb.dir/src.c.o
+/usr/bin/cc   -pedantic -Wall -W -Wpointer-arith -Wwrite-strings -Wunused -Wshadow -Winline -Wnested-externs -Wmissing-declarations -Wmissing-prototypes -Wno-long-long -Wfloat-equal -Wno-multichar -Wsign-compare -Wundef -Wno-format-nonliteral -Wendif-labels -Wstrict-prototypes -Wdeclaration-after-statement -DOPT-Wstrict-aliasing=3   -Wstrict-aliasing=3 -o CMakeFiles/cmTC_6d8cb.dir/src.c.o   -c /home/alex/CLionProjects/the-spotify-bay/cmake-build-debug/CMakeFiles/CMakeTmp/src.c
+<command-line>: warning: ISO C99 requires whitespace after the macro name
+Linking C executable cmTC_6d8cb
+/snap/clion/81/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_6d8cb.dir/link.txt --verbose=1
+/usr/bin/cc  -pedantic -Wall -W -Wpointer-arith -Wwrite-strings -Wunused -Wshadow -Winline -Wnested-externs -Wmissing-declarations -Wmissing-prototypes -Wno-long-long -Wfloat-equal -Wno-multichar -Wsign-compare -Wundef -Wno-format-nonliteral -Wendif-labels -Wstrict-prototypes -Wdeclaration-after-statement -DOPT-Wstrict-aliasing=3    -rdynamic CMakeFiles/cmTC_6d8cb.dir/src.c.o  -o cmTC_6d8cb 
+make[1]: Leaving directory '/home/alex/CLionProjects/the-spotify-bay/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test OPT-Wstrict-aliasing=3 succeeded with the following output:
+Change Dir: /home/alex/CLionProjects/the-spotify-bay/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_eb4f1/fast 
+/usr/bin/make -f CMakeFiles/cmTC_eb4f1.dir/build.make CMakeFiles/cmTC_eb4f1.dir/build
+make[1]: Entering directory '/home/alex/CLionProjects/the-spotify-bay/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_eb4f1.dir/src.c.o
+/usr/bin/cc   -pedantic -Wall -W -Wpointer-arith -Wwrite-strings -Wunused -Wshadow -Winline -Wnested-externs -Wmissing-declarations -Wmissing-prototypes -Wno-long-long -Wfloat-equal -Wno-multichar -Wsign-compare -Wundef -Wno-format-nonliteral -Wendif-labels -Wstrict-prototypes -Wdeclaration-after-statement -DOPT-Wstrict-aliasing=3   -Wstrict-aliasing=3 -o CMakeFiles/cmTC_eb4f1.dir/src.c.o   -c /home/alex/CLionProjects/the-spotify-bay/cmake-build-debug/CMakeFiles/CMakeTmp/src.c
+<command-line>: warning: ISO C99 requires whitespace after the macro name
+Linking C executable cmTC_eb4f1
+/snap/clion/81/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_eb4f1.dir/link.txt --verbose=1
+/usr/bin/cc  -pedantic -Wall -W -Wpointer-arith -Wwrite-strings -Wunused -Wshadow -Winline -Wnested-externs -Wmissing-declarations -Wmissing-prototypes -Wno-long-long -Wfloat-equal -Wno-multichar -Wsign-compare -Wundef -Wno-format-nonliteral -Wendif-labels -Wstrict-prototypes -Wdeclaration-after-statement -DOPT-Wstrict-aliasing=3    -rdynamic CMakeFiles/cmTC_eb4f1.dir/src.c.o  -o cmTC_eb4f1 
+make[1]: Leaving directory '/home/alex/CLionProjects/the-spotify-bay/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test OPT-Wstrict-aliasing=3 succeeded with the following output:
+Change Dir: /home/alex/CLionProjects/the-spotify-bay/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_9043e/fast 
+/usr/bin/make -f CMakeFiles/cmTC_9043e.dir/build.make CMakeFiles/cmTC_9043e.dir/build
+make[1]: Entering directory '/home/alex/CLionProjects/the-spotify-bay/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_9043e.dir/src.c.o
+/usr/bin/cc   -pedantic -Wall -W -Wpointer-arith -Wwrite-strings -Wunused -Wshadow -Winline -Wnested-externs -Wmissing-declarations -Wmissing-prototypes -Wno-long-long -Wfloat-equal -Wno-multichar -Wsign-compare -Wundef -Wno-format-nonliteral -Wendif-labels -Wstrict-prototypes -Wdeclaration-after-statement -DOPT-Wstrict-aliasing=3   -Wstrict-aliasing=3 -o CMakeFiles/cmTC_9043e.dir/src.c.o   -c /home/alex/CLionProjects/the-spotify-bay/cmake-build-debug/CMakeFiles/CMakeTmp/src.c
+<command-line>: warning: ISO C99 requires whitespace after the macro name
+Linking C executable cmTC_9043e
+/snap/clion/81/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9043e.dir/link.txt --verbose=1
+/usr/bin/cc  -pedantic -Wall -W -Wpointer-arith -Wwrite-strings -Wunused -Wshadow -Winline -Wnested-externs -Wmissing-declarations -Wmissing-prototypes -Wno-long-long -Wfloat-equal -Wno-multichar -Wsign-compare -Wundef -Wno-format-nonliteral -Wendif-labels -Wstrict-prototypes -Wdeclaration-after-statement -DOPT-Wstrict-aliasing=3    -rdynamic CMakeFiles/cmTC_9043e.dir/src.c.o  -o cmTC_9043e 
+make[1]: Leaving directory '/home/alex/CLionProjects/the-spotify-bay/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main(void) { return 0; }
+Performing C SOURCE FILE Test OPT-Wstrict-aliasing=3 succeeded with the following output:
+Change Dir: /home/alex/CLionProjects/the-spotify-bay/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_de0fa/fast 
+/usr/bin/make -f CMakeFiles/cmTC_de0fa.dir/build.make CMakeFiles/cmTC_de0fa.dir/build
+make[1]: Entering directory '/home/alex/CLionProjects/the-spotify-bay/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_de0fa.dir/src.c.o
+/usr/bin/cc   -pedantic -Wall -W -Wpointer-arith -Wwrite-strings -Wunused -Wshadow -Winline -Wnested-externs -Wmissing-declarations -Wmissing-prototypes -Wno-long-long -Wfloat-equal -Wno-multichar -Wsign-compare -Wundef -Wno-format-nonliteral -Wendif-labels -Wstrict-prototypes -Wdeclaration-after-statement -DOPT-Wstrict-aliasing=3   -Wstrict-aliasing=3 -o CMakeFiles/cmTC_de0fa.dir/src.c.o   -c /home/alex/CLionProjects/the-spotify-bay/cmake-build-debug/CMakeFiles/CMakeTmp/src.c
+<command-line>: warning: ISO C99 requires whitespace after the macro name
+Linking C executable cmTC_de0fa
+/snap/clion/81/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_de0fa.dir/link.txt --verbose=1
+/usr/bin/cc  -pedantic -Wall -W -Wpointer-arith -Wwrite-strings -Wunused -Wshadow -Winline -Wnested-externs -Wmissing-declarations -Wmissing-prototypes -Wno-long-long -Wfloat-equal -Wno-multichar -Wsign-compare -Wundef -Wno-format-nonliteral -Wendif-labels -Wstrict-prototypes -Wdeclaration-after-statement -DOPT-Wstrict-aliasing=3    -rdynamic CMakeFiles/cmTC_de0fa.dir/src.c.o  -o cmTC_de0fa 
+make[1]: Leaving directory '/home/alex/CLionProjects/the-spotify-bay/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+Source file was:
+int main(void) { return 0; }

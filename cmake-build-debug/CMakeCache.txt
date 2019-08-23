@@ -466,6 +466,9 @@ mongoose_BINARY_DIR:STATIC=/home/alex/CLionProjects/the-spotify-bay/cmake-build-
 //Value Computed by CMake
 mongoose_SOURCE_DIR:STATIC=/home/alex/CLionProjects/the-spotify-bay/cpr/opt/mongoose
 
+//The directory containing a CMake configuration file for nlohmann_json.
+nlohmann_json_DIR:PATH=nlohmann_json_DIR-NOTFOUND
+
 //Path to a library.
 pkgcfg_lib__OPENSSL_crypto:FILEPATH=/usr/lib/x86_64-linux-gnu/libcrypto.so
 

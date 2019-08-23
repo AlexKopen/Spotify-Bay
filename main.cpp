@@ -1,9 +1,9 @@
 #include <iostream>
 #include <cpr/cpr.h>
 #include <fstream>
+#include "nlohmann/json.hpp"
 
 int main(int argc, char **argv) {
-    std::vector<char> arr;
     std::ifstream input("../params.txt");
 
     char char_array[156];
@@ -24,6 +24,11 @@ int main(int argc, char **argv) {
     std::cout << r.status_code << std::endl;
     std::cout << r.header["content-type"] << std::endl;
     std::cout << r.text << std::endl;
+
+    auto s = nlohmann::json::parse(r.text);
+
+    std::cout << s << std::endl;
+
 
     return 0;
 }

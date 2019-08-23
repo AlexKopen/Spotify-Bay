@@ -21,4 +21,5 @@ CMakeFiles/the_spotify_bay.dir/main.cpp.o: ../cpr/include/cpr/session.h
 CMakeFiles/the_spotify_bay.dir/main.cpp.o: ../cpr/include/cpr/ssl_options.h
 CMakeFiles/the_spotify_bay.dir/main.cpp.o: ../cpr/include/cpr/timeout.h
 CMakeFiles/the_spotify_bay.dir/main.cpp.o: ../main.cpp
+CMakeFiles/the_spotify_bay.dir/main.cpp.o: ../nlohmann/json.hpp
 
