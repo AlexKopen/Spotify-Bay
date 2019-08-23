@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -g  -rdynamic CMakeFiles/options_tests.dir/options_tests.cpp.o  -o ../../bin/options_tests -Wl,-rpath,/home/alex/CLionProjects/the-spotify-bay/cmake-build-debug/lib ../../lib/libtest_server-d.a ../../lib/libgtest-d.a ../../lib/libcpr-d.a ../../lib/libmongoose-d.a ../../lib/libcurl-d.so -ldl -lpthread -lssl -lcrypto -lz 

@@ -6,5 +6,5 @@ CXX_FLAGS = -g   -std=gnu++17
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = 
+CXX_INCLUDES = -I/home/alex/CLionProjects/the-spotify-bay/cpr/include -I/home/alex/CLionProjects/the-spotify-bay/cpr/opt/curl/include -I/home/alex/CLionProjects/the-spotify-bay/cmake-build-debug/cpr/opt/curl/include/curl 
 

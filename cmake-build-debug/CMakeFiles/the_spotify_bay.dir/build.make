@@ -79,6 +79,11 @@ the_spotify_bay_EXTERNAL_OBJECTS =
 
 the_spotify_bay: CMakeFiles/the_spotify_bay.dir/main.cpp.o
 the_spotify_bay: CMakeFiles/the_spotify_bay.dir/build.make
+the_spotify_bay: lib/libcpr-d.a
+the_spotify_bay: lib/libcurl-d.so
+the_spotify_bay: /usr/lib/x86_64-linux-gnu/libssl.so
+the_spotify_bay: /usr/lib/x86_64-linux-gnu/libcrypto.so
+the_spotify_bay: /usr/lib/x86_64-linux-gnu/libz.so
 the_spotify_bay: CMakeFiles/the_spotify_bay.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/alex/CLionProjects/the-spotify-bay/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable the_spotify_bay"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/the_spotify_bay.dir/link.txt --verbose=$(VERBOSE)

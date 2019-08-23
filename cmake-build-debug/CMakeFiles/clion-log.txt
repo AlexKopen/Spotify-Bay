@@ -1,18 +1,42 @@
 /snap/clion/81/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/alex/CLionProjects/the-spotify-bay
--- The C compiler identification is GNU 8.3.0
--- The CXX compiler identification is GNU 8.3.0
--- Check for working C compiler: /usr/bin/cc
--- Check for working C compiler: /usr/bin/cc -- works
--- Detecting C compiler ABI info
--- Detecting C compiler ABI info - done
--- Detecting C compile features
--- Detecting C compile features - done
--- Check for working CXX compiler: /usr/bin/c++
--- Check for working CXX compiler: /usr/bin/c++ -- works
--- Detecting CXX compiler ABI info
--- Detecting CXX compiler ABI info - done
--- Detecting CXX compile features
--- Detecting CXX compile features - done
+-- Checking compiler flags for C++11 support.
+-- C++11 is supported.
+-- C++ Requests CMake Options
+-- =======================================================
+--   USE_SYSTEM_CURL: OFF
+--   BUILD_CPR_TESTS: ON
+--   GENERATE_COVERAGE: OFF
+--   CPR_CURL_NOSIGNAL: OFF
+--   USE_SYSTEM_GTEST: OFF
+--   CMAKE_USE_OPENSSL: ON
+-- =======================================================
+-- Not using system Curl, using built-in curl project instead.
+CMake Warning at cpr/opt/curl/CMakeLists.txt:50 (message):
+  the curl cmake build system is poorly maintained.  Be aware
+
+
+-- curl version=[7.56.0-DEV]
+-- Performing Test OPT-Wstrict-aliasing=3
+-- Performing Test OPT-Wstrict-aliasing=3 - Success
+Found *nroff option: -- -man
+-- Could NOT find LibSSH2 (missing: LIBSSH2_INCLUDE_DIR LIBSSH2_LIBRARY) 
+-- Enabled features: OpenSSL IPv6 unix-sockets libz AsynchDNS NTLM
+-- Enabled protocols: DICT FILE FTP FTPS GOPHER HTTP HTTPS IMAP IMAPS POP3 POP3S RTSP SMTP SMTPS TELNET TFTP
+-- Set CURL_FOUND to TRUE.
+-- Set CURL_LIBRARIES to libcurl.
+-- Set CURL_INCLUDE_DIRS to /home/alex/CLionProjects/the-spotify-bay/cpr/opt/curl/include;/home/alex/CLionProjects/the-spotify-bay/cmake-build-debug/cpr/opt/curl/include/curl.
+-- Not using system gtest, using built-in googletest project instead.
+-- Set GTEST_FOUND to TRUE.
+-- Set GTEST_LIBRARIES to gtest.
+-- Set GTEST_MAIN_LIBRARIES to gtest_main.
+-- Set GTEST_BOTH_LIBRARIES to gtest;gtest_main.
+-- Set GTEST_INCLUDE_DIRS to /home/alex/CLionProjects/the-spotify-bay/cpr/opt/googletest/include.
+-- Building mongoose project for test support.
+-- Set MONGOOSE_FOUND to TRUE.
+-- Set MONGOOSE_LIBRARIES to mongoose.
+-- Set MONGOOSE_INCLUDE_DIRS to /home/alex/CLionProjects/the-spotify-bay/cpr/opt/mongoose.
+-- Using CURL_INCLUDE_DIRS: /home/alex/CLionProjects/the-spotify-bay/cpr/opt/curl/include;/home/alex/CLionProjects/the-spotify-bay/cmake-build-debug/cpr/opt/curl/include/curl.
+-- Using CURL_LIBRARIES: libcurl.
 -- Configuring done
 -- Generating done
 -- Build files have been written to: /home/alex/CLionProjects/the-spotify-bay/cmake-build-debug

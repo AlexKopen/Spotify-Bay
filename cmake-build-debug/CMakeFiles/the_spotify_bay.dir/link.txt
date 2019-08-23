@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/the_spotify_bay.dir/main.cpp.o  -o the_spotify_bay 
+/usr/bin/c++  -g   CMakeFiles/the_spotify_bay.dir/main.cpp.o  -o the_spotify_bay -Wl,-rpath,/home/alex/CLionProjects/the-spotify-bay/cmake-build-debug/lib lib/libcpr-d.a lib/libcurl-d.so -ldl -lpthread /usr/lib/x86_64-linux-gnu/libssl.so /usr/lib/x86_64-linux-gnu/libcrypto.so /usr/lib/x86_64-linux-gnu/libz.so 
